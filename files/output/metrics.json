@@ -1,0 +1,4 @@
+{"type": "metrics", "dataset": "train", "precision": 0.5999151463725074, "balanced_accuracy": 0.8042719390603374, "recall": 0.7418677859391396, "f1_score": 0.6633825944170771}
+{"type": "metrics", "dataset": "test", "precision": 0.5016405395552315, "balanced_accuracy": 0.706979810191543, "recall": 0.5824338624338624, "f1_score": 0.539026540005876}
+{"type": "cm_matrix", "dataset": "train", "true_0": {"predicted_0": 6130, "predicted_1": 943}, "true_1": {"predicted_0": 492, "predicted_1": 1414}}
+{"type": "cm_matrix", "dataset": "test", "true_0": {"predicted_0": 13494, "predicted_1": 2734}, "true_1": {"predicted_0": 1973, "predicted_1": 2752}}
